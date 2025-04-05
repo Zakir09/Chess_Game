@@ -1,1 +1,1 @@
-# Project: Chess Game using C#
+# Project: Chess Game with Complete Rule Implementation using C#

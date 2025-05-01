@@ -33,3 +33,4 @@ artifacts/
 *.dbmdl
 *.dbproj.schemaview
 *.bak
+doc.doc
